@@ -9,8 +9,12 @@ Solution: Indeed gives advice to clients on what features they should change in 
 
 What we found:
 
-Best time to apply to jobs
-When companies are most seeking for hires
-Most listing for jobs in the U.S. was for: nurses, food, retail, and management
-Locations to move to for best oppertunity of being hired
-Community college and private schools in CA have the upper hand because their school startes earlier(the same time jobs are seeking people to hire). 
+1. Best time to apply to jobs
+
+2.When companies are most seeking for hires
+
+3. Most listing for jobs in the U.S. was for: nurses, food, retail, and management
+
+4. Locations to move to for best oppertunity of being hired
+
+5. Community college and private schools in CA have the upper hand because their school startes earlier(the same time jobs are seeking people to hire). 
