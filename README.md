@@ -11,7 +11,7 @@ What we found:
 
 1. Best time to apply to jobs
 
-2.When companies are most seeking for hires
+2. When companies are most seeking for hires
 
 3. Most listing for jobs in the U.S. was for: nurses, food, retail, and management
 
